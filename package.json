@@ -1,0 +1,10 @@
+{
+ "name": "cryptodog-js",
+ "license": "AGPLv3",
+ "dependencies": {
+  "stanza.io": "git+https://github.com/legastero/stanza.io.git",
+  "event-emitter": "latest",
+  "etc-js": "git+https://github.com/superp00t/etc-js.git",
+  "aes-js": "git+https://github.com/ricmoo/aes-js.git"
+ }
+}
