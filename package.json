@@ -1,10 +1,10 @@
 {
- "name":    "cryptodog-js",
- "author":  "The Cryptodog Developers",
+ "name": "cryptodog-js",
+ "author": "The Cryptodog Developers",
  "license": "AGPLv3",
  "dependencies": {
   "stanza.io": "git+https://github.com/legastero/stanza.io.git",
-  "otr":       "git+https://github.com/arlolra/otr.git",
+  "otr": "git+https://github.com/arlolra/otr.git",
   "etc-js": "git+https://github.com/superp00t/etc-js.git",
   "aes-js": "git+https://github.com/ricmoo/aes-js.git"
  }
