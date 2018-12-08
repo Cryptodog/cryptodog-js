@@ -8,7 +8,8 @@
   "aes-js": "git+https://github.com/ricmoo/aes-js.git",
   "etc-js": "git+https://github.com/superp00t/etc-js.git",
   "otr": "git+https://github.com/Cryptodog/otr.git",
-  "stanza.io": "latest"
+  "stanza.io": "latest",
+  "events":   "latest"
  },
  "main": "lib/index.js",
  "react-native": {
