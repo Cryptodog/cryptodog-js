@@ -10,5 +10,9 @@
   "otr": "git+https://github.com/Cryptodog/otr.git",
   "stanza.io": "latest"
  },
- "main": "lib/index.js"
+ "main": "lib/index.js",
+ "react-native": {
+   "fs": false,
+   "path": false
+ }
 }
