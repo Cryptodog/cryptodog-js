@@ -3,9 +3,10 @@
  "author": "The Cryptodog Developers",
  "license": "AGPLv3",
  "dependencies": {
-  "stanza.io": "git+https://github.com/legastero/stanza.io.git",
-  "otr": "git+https://github.com/arlolra/otr.git",
+  "@babel/runtime": "^7.2.0",
+  "aes-js": "git+https://github.com/ricmoo/aes-js.git",
   "etc-js": "git+https://github.com/superp00t/etc-js.git",
-  "aes-js": "git+https://github.com/ricmoo/aes-js.git"
+  "otr": "git+https://github.com/Cryptodog/otr.git",
+  "stanza.io": "latest"
  }
 }
