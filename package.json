@@ -2,6 +2,7 @@
  "name": "cryptodog-js",
  "author": "The Cryptodog Developers",
  "license": "AGPLv3",
+ "version": "0.1.0",
  "dependencies": {
   "@babel/runtime": "^7.2.0",
   "aes-js": "git+https://github.com/ricmoo/aes-js.git",
