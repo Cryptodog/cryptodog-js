@@ -9,5 +9,6 @@
   "etc-js": "git+https://github.com/superp00t/etc-js.git",
   "otr": "git+https://github.com/Cryptodog/otr.git",
   "stanza.io": "latest"
- }
+ },
+ "main": "lib/index.js"
 }
